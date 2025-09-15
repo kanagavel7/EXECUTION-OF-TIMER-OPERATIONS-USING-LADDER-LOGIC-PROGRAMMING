@@ -1,10 +1,10 @@
 # EXECUTION-OF-TIMER-OPERATIONS-USING-LADDER-LOGIC-PROGRAMMING
 
 
- #### NAME :
- #### REGISTER NUMBER :
- #### DEPARTMENT 
- #### YEAR 
+ #### NAME : KANAGAVEL R
+ #### REGISTER NUMBER : 212223040085
+ #### DEPARTMENT : CSE
+ #### YEAR : 3RD
 
  
 # Aim:
@@ -82,19 +82,17 @@ Retentive Timer: The output should turn on after the accumulated time reaches th
 
 # Simulation Screenshots 
 
+<img width="1636" height="620" alt="Screenshot 2025-09-15 185315" src="https://github.com/user-attachments/assets/cf0f4a4c-f11d-4c2a-a3fa-3e3b79cd44d2" />
 
+<img width="927" height="838" alt="Screenshot 2025-09-15 185402" src="https://github.com/user-attachments/assets/d7f80ffe-c28f-4d1b-9c88-dabbd93875c8" />
 
+<img width="1060" height="967" alt="Screenshot 2025-09-15 185415" src="https://github.com/user-attachments/assets/a9d3489f-60d8-40e6-8c07-20d3824121a7" />
 
+<img width="918" height="846" alt="Screenshot 2025-09-15 185436" src="https://github.com/user-attachments/assets/2bf70ab6-cd82-48a5-898e-c8b656bfa9fa" />
 
+<img width="1251" height="719" alt="Screenshot 2025-09-15 185449" src="https://github.com/user-attachments/assets/74dfb90c-9f03-4ea1-ae23-7d230b741135" />
 
-
-
-
-
-
-
-
-
+<img width="1822" height="970" alt="Screenshot 2025-09-15 185502" src="https://github.com/user-attachments/assets/422de586-13ce-49ba-bdae-c99ca0f7693d" />
 
 # Results:
 The ladder logic programs for ON-delay, OFF-delay, and Retentive timers were successfully implemented and tested.
